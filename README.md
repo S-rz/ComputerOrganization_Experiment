@@ -1,1 +1,1 @@
-# ComputerOrganization_Experiment
+# HUST ComputerOrganization Experiment
